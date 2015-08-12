@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class EX81006 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner scn=new Scanner(System.in);
+System.out.println("請輸入數字");
+String str=scn.nextLine();
+System.out.println("請輸入鑰匙");
+int key=scn.nextInt();
+System.out.println("請輸入加密或解密(+/-)");
+char
+	}
+
+}

@@ -1,0 +1,17 @@
+import java.util.Scanner;
+public class EX81006 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner scn=new Scanner(System.in);
+System.out.println("請輸入密碼英文");
+String str=scn.nextLine();
+System.out.println("請輸入加密(y)或解密(n)");
+String ans=scn.next();
+char[] data=str.toCharArray();
+int len=str.length();
+char[]data1=new char[len];
+System.out.println("資訊工程");
+
+	}
+}
